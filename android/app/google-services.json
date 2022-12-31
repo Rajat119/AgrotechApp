@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8799144153",
+    "project_id": "flutter-agrotech",
+    "storage_bucket": "flutter-agrotech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8799144153:android:87b25e2ca70ac439d496c8",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8799144153-72dfufueg2b5lrqdveee6oult32p1ead.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdIhS2u12zXD3-w0lKwyLTpcBO8rKiGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8799144153-72dfufueg2b5lrqdveee6oult32p1ead.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
